@@ -1,0 +1,27 @@
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Form1.resources
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.exe
+C:\Users\Annalyise\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.pdb
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.exe
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.pdb
+K:\New Folder\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+K:\New Folder\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Form1.resources
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Properties.Resources.resources
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\New Folder\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Form1.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\A Day at the Races\A Day at the Races\obj\x86\Debug\A Day at the Races.pdb
